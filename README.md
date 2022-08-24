@@ -1,2 +1,2 @@
 # Mock Ecommerce Store
-This repository contains code for a mock ecommerce store built using Vue for the front-end and Node.js/Express.js for the back-end
+A full stack mock jewelry store website built using Vue.js for the frontend and Node.js/Express.js for the backend
